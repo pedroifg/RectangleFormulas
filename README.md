@@ -4,9 +4,7 @@
   - Este é um projeto Java como forma de praticar Java OO.
  
 - Sobre o programa:
-<ul>
-  <li>Calcula a área, perimetro e diagional de um retangulo</li>  
-</ul>
+  - Calcula a área, perimetro e diagional de um retangulo
 
 - Tecnologia utilizadas: <br>
   <ul>
